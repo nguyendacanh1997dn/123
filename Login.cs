@@ -15,6 +15,7 @@ namespace CfManage
         public Login()
         {
             InitializeComponent();
+	//ádas
         }
 
         private void Login_FormClosing(object sender, FormClosingEventArgs e)
